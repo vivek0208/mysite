@@ -1,0 +1,48 @@
+
+.col-sm-6{
+    padding :20px 40px;
+    border-radius: 15px;
+    margin: 10px 0px;
+}
+
+.heading{
+    text-align: left;
+    border-bottom: 2px solid rgb(78, 78, 78);
+    margin-bottom: 30px;
+}
+
+.row{
+    margin-top: 20px;   
+}
+
+.progress{
+    margin-bottom: 10px;
+    height: 25px;
+}
+h6{
+    text-align: left;
+}
+
+.progress-bar{
+    -webkit-animation-delay: .5s;
+    -webkit-animation-duration: 2s;
+    font-weight: bold;
+    border-radius: 0 3px 3px 0;  
+    
+}
+
+#ps{
+    background: linear-gradient(to right,rgb(255, 166, 1), rgb(253, 72, 0), red);   
+}
+
+#hps{
+    background: -webkit-radial-gradient(rgb(255, 166, 1), rgb(253, 101, 41), red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#hai{
+    background: -webkit-radial-gradient(rgb(60, 255, 1), rgb(108, 253, 41), green);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

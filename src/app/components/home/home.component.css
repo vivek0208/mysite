@@ -1,0 +1,19 @@
+.container{
+    background-color: #1abc9c;
+    color:white; 
+    padding:40px;
+      
+   
+}
+
+.col-sm-9{
+    text-align:center;
+    height:100%;
+    
+}
+
+@media only screen
+and (max-width : 600px){
+  
+ }
+
